@@ -2,7 +2,7 @@
 
 A custom Unix shell implementation in C that supports command execution, piping, signal handling, and process monitoring with detailed statistics reporting.
 
-## Information
+## Background Information
 - **Development Platform**: VSCode, Workbench2, and Docker
 - **Course**: COMP3230 Operating Systems
 - **Assignment**: Programming Assignment 1
